@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "complex": "cpp",
+        "random": "cpp",
+        "rope": "cpp",
+        "functional": "cpp",
+        "streambuf": "cpp",
+        "*.ipp": "cpp",
+        "chrono": "cpp"
+    }
+}
